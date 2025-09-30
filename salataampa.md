@@ -19,7 +19,7 @@ Tämän jälkeen latasin certbotin, jonka jälkeen yritin hankkia serifikaatteja
 En ymmärtänyt mistä virhe johtui, mutta käytin dig komentoa, jotta saisin lisää tietoa.
 <img width="1301" height="417" alt="image" src="https://github.com/user-attachments/assets/b016df18-0861-4139-a2ec-91480efeadcd" />
 
-Ilmeisesti status kohdan NXDOMAIN on ongelma, mutta en tiedä miten sen saa kuntoon. Namecheapilla on kaikki mielestäni kunnossa ja pääsen sivustolleni muillakin laitteilla, mutta en saa sertifikaatteja.
+Ilmeisesti status kohdan NXDOMAIN on ongelma, mutta en tiedä miten sen saa kuntoon. Namecheapilla on kaikki mielestäni kunnossa ja pääsen sivustolleni muillakin laitteilla, mutta en saa certbotin sertifikaatteja.
 <img width="1124" height="337" alt="image" src="https://github.com/user-attachments/assets/fed7c035-ecbd-43d7-bb80-22f6f6676d45" />
 <img width="1146" height="162" alt="image" src="https://github.com/user-attachments/assets/3f509d5b-551f-400b-ab72-a4e447e314f5" />
 <img width="1144" height="134" alt="image" src="https://github.com/user-attachments/assets/91f6f3f7-55fc-49dd-bd89-5cedd8dc12f7" />
