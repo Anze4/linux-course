@@ -28,7 +28,7 @@ Ilmeisesti status kohdan NXDOMAIN on ongelma, mutta en tiedä miten sen saa kunt
 En tiedä mistä virhe johtuu. Pitää varmaan seuraavalla tunnilla pyytää apua.
 
 
-Kokeilin nyt vielä seuraavana päivänä uudestaan ja jostain syystä certbotilla sertifikaatin hankkiminen tällä kertaa onnistui.
+Kokeilin nyt vielä seuraavana päivänä uudestaan ja jostain syystä certbotilla sertifikaatin hankkiminen tällä kertaa onnistui. Tein vielä reiän tulimuuriin 443/tcp komennolla.
 <img width="1138" height="270" alt="image" src="https://github.com/user-attachments/assets/a3381ebc-b03e-49bd-b689-273a17acebc2" />
 
 Sivustokin näytti tällä kertaa oikealta! Lukko näkyy ja https.
