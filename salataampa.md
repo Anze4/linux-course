@@ -23,13 +23,25 @@ Ilmeisesti status kohdan NXDOMAIN on ongelma, mutta en tiedä miten sen saa kunt
 <img width="1124" height="337" alt="image" src="https://github.com/user-attachments/assets/fed7c035-ecbd-43d7-bb80-22f6f6676d45" />
 <img width="1146" height="162" alt="image" src="https://github.com/user-attachments/assets/3f509d5b-551f-400b-ab72-a4e447e314f5" />
 <img width="1144" height="134" alt="image" src="https://github.com/user-attachments/assets/91f6f3f7-55fc-49dd-bd89-5cedd8dc12f7" />
-<img width="1148" height="125" alt="image" src="https://github.com/user-attachments/assets/c0f3478e-114c-4d13-b511-265c07681d49" />
-<img width="1150" height="99" alt="image" src="https://github.com/user-attachments/assets/695a533e-37c4-4226-8909-86d39c63c3ea" />
+
 
 En tiedä mistä virhe johtuu. Pitää varmaan seuraavalla tunnilla pyytää apua.
 
 
-Lähteet: https://go-acme.github.io/lego/usage/cli/obtain-a-certificate/index.html#using-an-existing-running-web-server, https://httpd.apache.org/docs/2.4/ssl/ssl_howto.html#configexample, https://letsencrypt.org/how-it-works/, https://github.com/Phoolis/HH-linux-palvelimet/blob/main/h5.md.
+Kokeilin nyt vielä seuraavana päivänä uudestaan ja jostain syystä certbotilla sertifikaatin hankkiminen tällä kertaa onnistui.
+<img width="1138" height="270" alt="image" src="https://github.com/user-attachments/assets/a3381ebc-b03e-49bd-b689-273a17acebc2" />
+
+Sivustokin näytti tällä kertaa oikealta! Lukko näkyy ja https.
+<img width="947" height="77" alt="image" src="https://github.com/user-attachments/assets/be7411fc-b19a-4847-b92a-f545bebed451" />
+
+Kävin vielä testaamassa sivuni SSL labsin palvelussa ja sain A-ratingin laadunvarmistuksesta, joten hyvin se lopulta meni.
+<img width="1108" height="742" alt="image" src="https://github.com/user-attachments/assets/4b2200be-1bae-4e68-90db-375e42e51f5f" />
+
+
+
+
+
+Lähteet: https://go-acme.github.io/lego/usage/cli/obtain-a-certificate/index.html#using-an-existing-running-web-server, https://httpd.apache.org/docs/2.4/ssl/ssl_howto.html#configexample, https://letsencrypt.org/how-it-works/, https://github.com/Phoolis/HH-linux-palvelimet/blob/main/h5.md, https://www.ssllabs.com/ssltest/.
 
 
 
