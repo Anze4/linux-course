@@ -29,7 +29,10 @@ Seuraavaksi tein virtuaalipalvelimen. Käytin komentoa sudo adduser aatul. Tein 
 Tämän jälkeen latasin apache2 palvelimen ja testasin, että palvelin toimii oikein.
 <img width="833" height="364" alt="image" src="https://github.com/user-attachments/assets/8f3e61dc-640d-431b-8a63-295f1008acfd" />
 
-Seuraavaksi loin nettisivun näkyviin sudo a2enmod userdir komennon ja echo komennon avulla. Sivu toimi oikein hyvin. En kuitenkaan saa nyt teknisten ongelmien ja koneen vaihdon takia kuvaa lopullisesta sivusta.
+Seuraavaksi loin nettisivun näkyviin sudo a2enmod userdir komennon ja echo komennon avulla. Alla jälkeenpäin lisätty kuva toimivasta nettisivusta. Jouduin tekemään koko prosessin uudestaan, koska olin sulkenut itseni ulos omalta virtuaalikoneelta unohtaen tehdä palomuurin reiän :).
+
+<img width="1286" height="807" alt="image" src="https://github.com/user-attachments/assets/18d5a714-11a5-4381-8a3a-d1d01ed5bcce" />
+
 
 
 Lähteet: https://susannalehto.fi/2022/teoriasta-kaytantoon-pilvipalvelimen-avulla-h4/, https://terokarvinen.com/linux-palvelimet/, https://terokarvinen.com/2017/first-steps-on-a-new-virtual-private-server-an-example-on-digitalocean/, https://www.digitalocean.com/
